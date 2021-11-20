@@ -43,4 +43,6 @@ Lo stato dei singoli sensori é reperibile  facendo una chiamata `GET all'uri` `
 
 Per i sensori di tipo toggle é possibile cambiarne lo stato effettuando una chiamata PUT all'indirizzo `https://hf3xzw.deta.dev/<id>/toggle`.
 
+Link alternativo: https://python-iot-sim.professorandrea.repl.co/
+
 Realizzare utilizzando un framework CSS a scelta una webapp per la visualizzazione dei dati, facendo anche ricorso a delle librerie per i grafici. Deve essere inoltre possibile effettuare la modifica dello stato dei toggle button.
